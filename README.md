@@ -18,7 +18,7 @@ Este es nuestro primer proyecto en gitHub
 -   <strong>git branch</strong> (consultar ramas del proyecto y en cual estamos ubicados)
 -   <strong>git branch nombre-rama</strong> (crear rama)
 -   <strong>git checkout nombre-rama</strong> (cambiar rama)
--   <strong></strong> ()
+-   <strong>git merge nombre-rama</strong> (traer cambios de una rama a la actual)
 -   <strong></strong> ()
 -   <strong></strong> ()
 -   <strong></strong> ()
