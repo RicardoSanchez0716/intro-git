@@ -8,11 +8,17 @@ Este es nuestro primer proyecto en gitHub
 
 # Git command
 
-<ul>
-    <Li>git init</li>
-    <Li>git add . <strong> (Añadir los archivos al stage area)</strong></li>
-    <Li>git commit -m '' <strong>(Gardar cambios en el codigo)</strong></li>
-    <Li>git log<strong> (Consultar los commits)</strong></li>
-    <Li>git push origin main <strong>(Subir los commints al repositorio)</strong></li>
+-   <strong>git init</strong>(adicionar el proyecto al control de version de codigo git)
+-   <strong>git add . </strong> or <strong>git add nombre-archivo</strong>(añadir archivos al stage area)
+-   <strong>git commit -m 'comentario' </strong>(Gardar los archivos que esten fuera del stage area)
+-   <strong>>git log</strong> (Consultar los commits)
+-   <strong>git push origin rama <strong>(Subir los commints al repositorio)
+-   <strong>git status</strong> (consultar cambios en el proyecto)
 
-</ul>
+-   <strong>git branch</strong> (consultar ramas del proyecto y en cual estamos ubicados)
+-   <strong>git branch nombre-rama</strong> (crear rama)
+-   <strong>git checkout nombre-rama</strong> (cambiar rama)
+-   <strong></strong> ()
+-   <strong></strong> ()
+-   <strong></strong> ()
+-   <strong></strong> ()
