@@ -23,4 +23,7 @@ Este es nuestro primer proyecto en gitHub
 -   <strong>git log --oneline</strong> (consultar los commits con un resumen de su id y rama del proyecto)
 -   <strong>git reset --hard<i>id-commit</i></strong> (devolverse a un commit y eliminar el actual)
 -   <strong>git revert commit<i>id-commit</i></strong> (devolverse a un commit sin eliminar el actual)
--   <strong></strong> ()
+-   <strong>git revert commit id-commit</strong> (devolverse a un commit sin eliminar el actual)
+-   <strong>git commit --amend -m "nuevo comentario" </strong> (sobreescribir un commit)
+-   <strong>git commit --amend --no-edit</strong> (guardar cambios en el mismo commit anterior sin editar el comentario)
+
