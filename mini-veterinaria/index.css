@@ -1,5 +1,20 @@
 h2{
     text-align: center;
-    margin: 50px;
+    margin-top: 50px;
 }
 
+/*Estilo para el formulario*/
+#section-form form{
+    width: 350px;
+}
+
+#section-form{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#cont-btn {
+    display: flex;
+    justify-content: center;
+}
